@@ -5,7 +5,7 @@ Sou apenas um adolescente que está cursando Desenvolvimento de Sistema na Etec 
 
 <br/>
  
-<div align="center">
+<div align="center" margin-bottom="50px">
 
 
  ![Lipe's github stats](https://github-readme-stats.vercel.app/api?username=Felipis&show_icons=true&theme=material-palenight)
