@@ -1,6 +1,6 @@
 # Eae família 😝🤙
 
-<p>Sou apenas um adolescente que está cursando Desenvolvimento de Sistema na Etec Cidade Tiradentes, aprendendo aos poucos as linguagens que existem. No momento estou aprendendo PHP e aperfeiçoando meu conhecimento em JAVA, acompanhe meu Github e veja meus projetos em minha hospedagem, o link está abaixo do meu perfil.</p>
+<p>Sou apenas um adolescente que está cursando Desenvolvimento de Sistema na Etec Cidade Tiradentes, aprendendo aos poucos as linguagens que existem. No momento estou aprendendo PHP junto comm conexão com banco de dados e aperfeiçoando meu conhecimento em JAVA, acompanhe meu Github e veja meus projetos em minha hospedagem, o link está abaixo do meu perfil.</p>
 <br/>
 
 <br/>
