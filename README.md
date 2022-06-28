@@ -6,11 +6,10 @@
 <br/>
 
 ## ⚡️ GitHub Status
-<div align="center" float="left" height="100px">
+<div align="center">
 
 
  ![Lipe's github stats](https://github-readme-stats.vercel.app/api?username=Felipis&show_icons=true&theme=material-palenight)
- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipis&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/Felipis/github-readme-stats)
  
  <br/>
