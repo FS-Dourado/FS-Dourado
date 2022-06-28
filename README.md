@@ -8,7 +8,7 @@
 ## ⚡️ GitHub Status
 <div align="center" float="left">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipis&show_icons=true&theme=material-palenight">
- <img height="180em" src-"https://github-readme-stats.vercel.app/api/top-langs/?username=Felipis&langs_count=10&layout=compact&theme=material-palenigh](https://github.com/Felipis/github-readme-stats)">
+ <img height="180em" src-"https://github-readme-stats.vercel.app/api/top-langs/?username=Felipis&langs_count=10&layout=compact&theme=material-palenigh">
  
  <br/>
  </div>
