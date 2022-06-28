@@ -1,16 +1,15 @@
-# Olá Dev, me chamo Felipe Dourado estudante de desenvolvimento de sistemas  👨🏻‍💻🤙
+# Olá Dev, me chamo Felipe Dourado👨🏻‍💻🤙
 
-<p>Sou apenas um adolescente que está cursando Desenvolvimento de Sistema na Etec Cidade Tiradentes, aprendendo aos poucos as linguagens que existem. No momento estou aprendendo ReactJS e React Native e aperfeiçoando meu conhecimento em PHP, acompanhe meu Github e veja meus projetos em minha hospedagem e meu projeto de TCC que pretende revolucionar o sistema escolar.</p>
+<p>Comecei com a programação em 2020 na ETEC Cidade tiradentes.</p>
 <br/>
 
 <br/>
 
 ## ⚡️ GitHub Status
-<div align="center">
+<div align="center" float="left">
 
 
  ![Lipe's github stats](https://github-readme-stats.vercel.app/api?username=Felipis&show_icons=true&theme=material-palenight)
- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipis&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/Felipis/github-readme-stats)
  
  <br/>
