@@ -6,7 +6,7 @@
 <br/>
 
 ## ⚡️ GitHub Status
-<div align="center" float="left">
+<div align="center" float="left" height="100%">
 
 
  ![Lipe's github stats](https://github-readme-stats.vercel.app/api?username=Felipis&show_icons=true&theme=material-palenight)
