@@ -5,7 +5,7 @@
 
 <br/>
  
-<div align="center">
+<div align="center" float="left">
 
 
  ![Lipe's github stats](https://github-readme-stats.vercel.app/api?username=Felipis&show_icons=true&theme=material-palenight)
