@@ -1,4 +1,4 @@
-# Eae família 😝🤙
+# Olá Dev 👨🏻‍💻🤙
 
 <p>Sou apenas um adolescente que está cursando Desenvolvimento de Sistema na Etec Cidade Tiradentes, aprendendo aos poucos as linguagens que existem. No momento estou aprendendo ReactJS e React Native e aperfeiçoando meu conhecimento em PHP, acompanhe meu Github e veja meus projetos em minha hospedagem e meu projeto de TCC que pretende revolucionar o sistema escolar.</p>
 <br/>
@@ -21,4 +21,6 @@
  ![Badge](https://img.shields.io/static/v1?label=&message=CSS&color=3498db&style=for-the-badge)
  ![Badge](https://img.shields.io/static/v1?label=&message=SQL&color=2c3e50&style=for-the-badge)
  ![Badge](https://img.shields.io/static/v1?label=&message=JS&color=9b59b6&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=REACTJS&color=9b59b6&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=REACTNATIVE&color=9b59b6&style=for-the-badge)
  
