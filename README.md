@@ -5,7 +5,7 @@
 
 <br/>
 
-## GitHub Status
+## ⚡️ GitHub Status
 <div align="center">
 
 
