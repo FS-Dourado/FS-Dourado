@@ -16,7 +16,7 @@
  </div>
  
  ## Skills
- ![Badge](https://img.shields.io/static/v1?label=&message=JAVA&color=e67e22&style=for-the-badge)
+ [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>]
  ![Badge](https://img.shields.io/static/v1?label=&message=HTML&color=e74c3c&style=for-the-badge)
  ![Badge](https://img.shields.io/static/v1?label=&message=CSS&color=3498db&style=for-the-badge)
  ![Badge](https://img.shields.io/static/v1?label=&message=SQL&color=2c3e50&style=for-the-badge)
