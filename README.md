@@ -1,11 +1,10 @@
 # Olá Dev, me chamo Felipe Dourado👨🏻‍💻🤙
 
-<div align="center" float="left">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipis&layout=compact&langs_count=7&theme=dracula"/>
- 
- <br/>
- </div>
+<div align="center">
+  <a href="https://github.com/FS-Dourado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fs-dourado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-dourado&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
  ## 💻 Linguagens
  <div  style="display: inline_block">
