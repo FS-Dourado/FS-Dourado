@@ -14,8 +14,14 @@
 <img align="center" alt="Dourado-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="center" alt="Dourado-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="Dourado-Node" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
- </div>
- 
+</div> 
+
+  ##
+ <a href="felipedourado920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="http://instragam.com/d0ur4d0_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
+  
+  
   ![Snake animation](https://github.com/FS-Dourado/FS-Dourado/blob/output/github-contribution-grid-snake.svg)
  
  
