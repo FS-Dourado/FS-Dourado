@@ -17,11 +17,8 @@
 </div> 
 
   ##
- <a href="felipedourado920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="http://instragam.com/d0ur4d0_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
-  
-  
+ <a href="felipedourado920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
+    
   ![Snake animation](https://github.com/FS-Dourado/FS-Dourado/blob/output/github-contribution-grid-snake.svg)
  
  
