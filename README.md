@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/FS-Dourado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fs-dourado&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-dourado&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=fs-dourado&show_icons=true&theme=tokyonight"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-dourado&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
 <div  style="display: inline_block"><br/>
