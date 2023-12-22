@@ -32,7 +32,7 @@
   Gmail: 'felipe.siqueira@indigohive.com.br'
   ```
   ```javascript
-  Linkedin: 'https://www.linkedin.com/in/felipe-dourado-24645728b/'
+  Linkedin: 'linkedin.com/in/felipe-dourado-24645728b'
   ```
     
   ![Snake animation](https://github.com/FS-Dourado/FS-Dourado/blob/output/github-contribution-grid-snake.svg)
