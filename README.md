@@ -27,25 +27,13 @@
 </table>
 <br />
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
-  ##
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=felipedourado920@gmail.com" alt="Gmail"/></a>
-
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-dourado-24645728b/" alt="LinkedIn"/></a>
-
+  ##  Contacts
+  ```javascript
+  Gmail: 'felipe.siqueira@indigohive.com.br'
+  ```
+  ```javascript
+  Linkedin: 'https://www.linkedin.com/in/felipe-dourado-24645728b/'
+  ```
     
   ![Snake animation](https://github.com/FS-Dourado/FS-Dourado/blob/output/github-contribution-grid-snake.svg)
  
