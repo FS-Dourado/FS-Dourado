@@ -15,14 +15,6 @@
         alt="Github stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=FS-Dourado&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
   </tr>
 </table>
 <br />
