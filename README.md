@@ -21,9 +21,6 @@
 
   ##  Contacts
   ```javascript
-  Gmail: 'felipe.siqueira@indigohive.com.br'
-  ```
-  ```javascript
   Linkedin: 'linkedin.com/in/felipe-dourado-24645728b'
   ```
     
